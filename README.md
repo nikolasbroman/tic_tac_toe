@@ -2,7 +2,7 @@
 
 This project is a command line game of tic-tac-toe built in Ruby.
 
-An assignement in:
+An assignment in:
 [The Odin Project](https://www.theodinproject.com/) > [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming) > [Intermediate Ruby](https://www.theodinproject.com/courses/ruby-programming#intermediate-ruby) > [OOP](https://www.theodinproject.com/courses/ruby-programming/lessons/oop).
 
 
